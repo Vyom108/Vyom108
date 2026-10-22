@@ -1,20 +1,33 @@
-Hi there, I'm Vyom! 👋
-Welcome to my GitHub profile! I am a passionate developer with a strong interest in both Web Development and Data Analysis. I love building modern, user-friendly applications and diving into datasets to uncover hidden trends.
+# Hi, I'm Vyom 👋
 
-🛠️ My Tech Stack & Skills
-Languages: Python, TypeScript, JavaScript
-Web Development: Modern Web Apps, UI/UX, E-commerce integrations
-Data Science & Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebooks
-🚀 Featured Projects
-🎨 DityArt Studio
-A modern creative studio website built with TypeScript. It showcases customized gifts, branding, stationery, and personalized products with a seamless WhatsApp ordering experience.
+I'm an aspiring **backend and full stack developer** who enjoys building useful web applications and learning how to make them reliable end to end. My projects span TypeScript web development, Python applications, SQLite persistence, and data analysis.
 
-📚 Amazon Bestsellers Data Analysis
-An Exploratory Data Analysis (EDA) project using Python, Pandas, and Seaborn. I analyzed a decade of Amazon's Top 50 bestselling books to uncover trends in genres, pricing, and top authors.
+## What I'm working with
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vyom108&show_icons=true&theme=radium" alt="Vyom's GitHub Stats" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyom108&layout=compact&theme=radium" alt="Top Languages" width="48%"> </p>
-📫 Get in Touch
-GitHub: @Vyom108
-Feel free to reach out if you want to collaborate on a project or just talk tech!
-<!-- **Vyom108/Vyom108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- **Languages:** TypeScript, JavaScript, Python
+- **Web:** Next.js, React, Streamlit
+- **Data:** SQLite, Pandas, Matplotlib, Seaborn
+- **Currently growing:** backend APIs, databases, authentication, testing, and deployment
+
+## Selected projects
+
+### [DityArt Studio](https://github.com/Vyom108/dityart-studio)
+A TypeScript storefront for a creative studio, with a product catalog and WhatsApp ordering flow.
+
+### [DityArt Studio — Python Edition](https://github.com/Vyom108/dityart-studio-python)
+A Streamlit storefront with searchable product categories, product details, WhatsApp enquiries, and a custom order form persisted in SQLite. Customer submissions are kept off public pages.
+
+### [Karwa](https://github.com/Vyom108/karwa)
+A vehicle rental and transportation platform concept for car rentals, outstation trips, self-drive services, weddings, and group travel.
+
+### [Amazon Bestselling Books Analysis](https://github.com/Vyom108/amazon-bestsellers-data-analysis)
+A Python exploratory data analysis of Amazon's Top 50 books from 2009–2019, examining genres, prices, ratings, and authors with Pandas, Matplotlib, and Seaborn.
+
+## What I'm aiming for
+
+I'm looking for opportunities to grow as a **backend or full stack developer**. I’m especially interested in building APIs, designing data models, connecting frontends to dependable services, and improving applications through testing and deployment.
+
+## Connect
+
+- GitHub: [@Vyom108](https://github.com/Vyom108)
+
